@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh Xuan"
+title                    : "Xuan Bui"
 title_separator          : "-"
 name                     : &name "Xuan Bui"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuan Bui"
   avatar           : "profile-X.jpg"
-  bio              : "Business Analyst at Lumosis"
+  bio              : "Business Analyst at Lumos IS"
   location         : "HCMC, VietNam"
   employer         :
   pubmed           : 
